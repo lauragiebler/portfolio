@@ -1,0 +1,155 @@
+.favicon {
+  border-radius: 50%;
+}
+
+.nav {
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+.nav-link {
+  color: #212a3e;
+  font-family: "EB Garamond", serif;
+}
+.nav-link:hover {
+  color: #9ba4b5;
+  font-family: "EB Garamond", serif;
+}
+
+.profile-img {
+  border-radius: 15%;
+}
+
+.profile-img-2 {
+  border-radius: 5%;
+}
+
+.background-color {
+  background-color: #f1f6f9;
+}
+
+h1 {
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+h2 {
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+p {
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+.lead {
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+.button:link,
+.button:visited {
+  background-color: #f1f6f9;
+  color: #212a3e;
+  border: 2px solid #9ba4b5;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button:hover,
+.button:active {
+  background-color: #9ba4b5;
+  color: white;
+}
+
+.guessmynumber {
+  width: 70px;
+  height: 60px;
+}
+
+.pig-game {
+  width: 70px;
+  height: 60px;
+}
+
+h3 {
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+p {
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+.hobbies {
+  background-color: #f1f6f9;
+}
+
+ul {
+  list-style: none;
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+.interest {
+  background-color: #f1f6f9;
+}
+
+.skills {
+  background-color: #f1f6f9;
+}
+
+/* Contact form */
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #f1f6f9;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+input[type="submit"] {
+  background-color: #212a3e;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #9ba4b5;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f1f6f9;
+  padding: 20px;
+  padding-top: 5px;
+  margin-top: 0;
+}
+
+label {
+  font-family: "EB Garamond", serif;
+  color: #212a3e;
+}
+
+/* resume*/
+.education {
+  background-color: #f1f6f9;
+}
+
+.work-icon {
+  background-color: #f1f6f9;
+}
